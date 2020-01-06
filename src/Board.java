@@ -1,3 +1,5 @@
+// the board class does what the others can't
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
